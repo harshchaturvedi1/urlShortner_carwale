@@ -192,7 +192,7 @@ The **URL Shortener Project** is a web application that allows users to shorten 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-repo/url-shortener.git
+   git clone git@github.com:harshchaturvedi1/urlShortner_carwale.git
    cd url-shortener
    ```
 
